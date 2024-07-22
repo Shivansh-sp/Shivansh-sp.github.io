@@ -4,8 +4,7 @@
 
 | Date | Resource Person | Description |
 | ---- | --------------- | ----------- |
-| 11/07/2024 | Dr. Arvind Dhingra | 
-Introduction to all the clubs in the college and made the session lively with his motivating words |
+| 11/07/2024 | Dr. Arvind Dhingra | Introduction to all the clubs in the college and made the session lively with his motivating words |
 | 11/07/2024 | Dr. Parminder Singh | Sir motivated us admitted to GNDEC and inspired us to stay focused in studies |
 | 11/07/2024 | Dr.H.S. Rai | Sir enlightened us with his words of wisdom and introduced us to CodeGNE club |
 | 12/07/2024 | 2nd Year Seniors | Inroduction to Excel and ChatGPT in an interactive way |
