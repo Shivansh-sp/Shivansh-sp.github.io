@@ -1,6 +1,6 @@
 # Hello
 **I am Shivansh** 
-> # - **In this repository I will share my experiance in Guru Nanak Dev Enginering Collage Ludhaina about Induction Programme**
+> # - **In this repository I will share my experience at Guru Nanak Dev Engineering College Ludhiana about Induction Program**
 
 | Date | Resource Person | Description |
 | ---- | --------------- | ----------- |
